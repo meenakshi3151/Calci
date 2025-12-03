@@ -1,4 +1,4 @@
-# Web Calculator
+# Calci
 
 This project is a simple web-based calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built using Go for the backend and HTML/CSS for the frontend, providing a responsive and user-friendly interface.
 
